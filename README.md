@@ -1,4 +1,7 @@
-# Face_mask_project3
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/shaineb/Face_mask_project3/main/maskrecognition8.jpeg" width="600px"/><br/>
+ Are you wearing a mask?
+</h1>
 
  # Face Mask Detector
 ![](https://tse3.mm.bing.net/th?id=OIP.o6Uy1q8Yv6LQBf1O-NXtwQHaEr&pid=Api&P=0&w=275&h=175)
