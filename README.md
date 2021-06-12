@@ -22,3 +22,18 @@
 - establish accurate predictions of mask use in state inspections
 - Hospitals & healthcare could use its application to better enforce mask use
 # How Mask Detection Works
+![](https://github.com/divya-gh/Face_Mask_Detection/blob/main/Images/MobileNetV2_accracy_plot.png)
+
+
+# Image Recognition
+   ![](https://github.com/divya-gh/Face_Mask_Detection/blob/main/static/Images/camera1.png?raw=true)  
+   
+   
+   
+  
+  
+  
+  
+  # Mobile Capabilties
+ ![](https://tse2.mm.bing.net/th?id=OIP._sZ9rjg9xA2frN_5W7aOJgHaJY&pid=Api&P=0&w=300&h=100)
+   
