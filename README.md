@@ -11,3 +11,8 @@
 - how are facilties checking public and private access points 
 - how  is  census being taken for city and state regulations health regulations
 # Solution ![](https://tse2.mm.bing.net/th?id=OIP.ykPkTfJw9Uu8GdonnyX7WQHaIx&pid=Api&P=0&w=300&h=100)
+- face mask checks
+- app acts as partial system clearance 
+- maintains constant checks for building census
+- establish accurate predictions of mask use in state inspections
+- Hospitals & healthcare could use its application to better enforce mask use
