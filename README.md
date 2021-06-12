@@ -1,6 +1,8 @@
 # Face_mask_project3
+
  # Face Mask Detector
 ![](https://tse3.mm.bing.net/th?id=OIP.o6Uy1q8Yv6LQBf1O-NXtwQHaEr&pid=Api&P=0&w=275&h=175)
+!(https://utsasandatapt-zze1046.slack.com/files/U01GFBFMGRK/F024MDL4FV2/maskrecognition8.jpeg)
 # Covid struct 2020-2021 
 - vaccines were not available for majority population
 -  Hospitals and Healthcare facilites mandatorily wore facemasks to prevent spread of Covid
