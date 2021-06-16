@@ -27,22 +27,25 @@
 
 # Image Recognition
 
-   ![](https://github.com/divya-gh/Face_Mask_Detection/blob/main/static/Images/camera1.png?raw=true) used 
+   ![](https://github.com/divya-gh/Face_Mask_Detection/blob/main/static/Images/camera1.png?raw=true) 
    
-   
+ * Hardcascade takes camera image
+ * recognizes image of faces
+ * then put images in RealTime
    
   
   
   
   
   # Mobile Capabilties
- ![](https://tse2.mm.bing.net/th?id=OIP._sZ9rjg9xA2frN_5W7aOJgHaJY&pid=Api&P=0&w=300&h=100)
+ ![](https://tse2.mm.bing.net/th?id=OIP._sZ9rjg9xA2frN_5W7aOJgHaJY&pid=Api&P=0&w=300&h=100) 
+
 
  # Technologies
  Project created with
  
  
- ![]( https://img.shields.io/badge/Contributors-4-blue)
+ ![]( https://img.shields.io/badge/contributors-Divya--Erin--Nadia--Shaine-blue)
  
 ![](https://img.shields.io/badge/Javascript-anaconda-blue)
  
@@ -51,3 +54,5 @@
 ![]( https://img.shields.io/badge/Flask-IP-blue)
 
 ![]( https://img.shields.io/badge/TensorFlow-main-blue)
+
+![]( https://img.shields.io/badge/D3-js-blue)
