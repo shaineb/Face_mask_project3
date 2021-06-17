@@ -27,13 +27,13 @@
 
 # Image Recognition
 
-   ![](https://github.com/divya-gh/Face_Mask_Detection/blob/main/static/Images/camera1.png?raw=true) 
+   ![](https://github.com/divya-gh/Face_Mask_Detection/blob/main/static/Images/camera1.png?raw=true)   
    
- * Hardcascade takes camera image
- * recognizes image of faces
- * then put images in RealTime
-   
-  
+ # Objective
+  * Detects face masks with images selected
+  * Detects face masks with images uploaded
+  * Detects face masks in real - time video stream
+
   
   
   
@@ -56,3 +56,4 @@
 ![]( https://img.shields.io/badge/TensorFlow-main-blue)
 
 ![]( https://img.shields.io/badge/D3-js-blue)
+![]( https://img.shields.io/badge/CNN-Vgg--19-blue )
