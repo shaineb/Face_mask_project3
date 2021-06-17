@@ -12,7 +12,7 @@
 -  basic and N95 mask were standard for public and private facilites
 -  most Healthcare and Hospitals require masks worn 
 # Why use Face Mask Detector?
-- still mandatory for visitors and workers for  to wear masks in Healthcare Facilities
+- still mandatory for visitors and workers  to wear masks in Healthcare Facilities
 - how are facilties checking public and private access points 
 - how  is  census being taken for city and state health regulations
 # Solution ![](https://tse2.mm.bing.net/th?id=OIP.ykPkTfJw9Uu8GdonnyX7WQHaIx&pid=Api&P=0&w=300&h=100)
